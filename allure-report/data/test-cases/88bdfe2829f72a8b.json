@@ -1,0 +1,48 @@
+{
+  "uid" : "88bdfe2829f72a8b",
+  "name" : "Valid login ",
+  "fullName" : "Test suit.Valid login ",
+  "historyId" : "94269c81476d16de168e9a2d8202e31f",
+  "time" : {
+    "start" : 1646731975300,
+    "stop" : 1646731987089,
+    "duration" : 11789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Valid login "
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88bdfe2829f72a8b.json",
+  "parameterValues" : [ ]
+}

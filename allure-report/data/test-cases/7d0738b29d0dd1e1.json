@@ -1,0 +1,66 @@
+{
+  "uid" : "7d0738b29d0dd1e1",
+  "name" : "Proceed next for the Benifits and extras",
+  "fullName" : "Test suit.Proceed next for the Benifits and extras",
+  "historyId" : "b2b9f96b82b360d930ce3097a1186cf3",
+  "time" : {
+    "start" : 1646732702123,
+    "stop" : 1646732702251,
+    "duration" : 128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Proceed next for the Benifits and extras"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8a91e662c9f905e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731997452,
+        "stop" : 1646731997578,
+        "duration" : 126
+      }
+    }, {
+      "uid" : "372934b9cd7eb47e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731872649,
+        "stop" : 1646731872775,
+        "duration" : 126
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d0738b29d0dd1e1.json",
+  "parameterValues" : [ ]
+}

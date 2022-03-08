@@ -1,0 +1,48 @@
+{
+  "uid" : "cac3b421ab5f4f13",
+  "name" : "Verify that the contract created successfully ",
+  "fullName" : "Test suit.Verify that the contract created successfully ",
+  "historyId" : "654cf4c7b93f648515dbd0a807632a1f",
+  "time" : {
+    "start" : 1646731997582,
+    "stop" : 1646731997703,
+    "duration" : 121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the contract created successfully "
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cac3b421ab5f4f13.json",
+  "parameterValues" : [ ]
+}

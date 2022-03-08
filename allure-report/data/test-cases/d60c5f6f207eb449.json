@@ -1,0 +1,66 @@
+{
+  "uid" : "d60c5f6f207eb449",
+  "name" : "Proceed next for the define dates tap",
+  "fullName" : "Test suit.Proceed next for the define dates tap",
+  "historyId" : "94c6da9e98958c547a25d23878638319",
+  "time" : {
+    "start" : 1646732701998,
+    "stop" : 1646732702121,
+    "duration" : 123
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Proceed next for the define dates tap"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2210b1a3301fbf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731997326,
+        "stop" : 1646731997447,
+        "duration" : 121
+      }
+    }, {
+      "uid" : "d77f7e745b41173",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731872528,
+        "stop" : 1646731872646,
+        "duration" : 118
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d60c5f6f207eb449.json",
+  "parameterValues" : [ ]
+}

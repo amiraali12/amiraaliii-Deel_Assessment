@@ -1,0 +1,66 @@
+{
+  "uid" : "a8c39fb621a53bb",
+  "name" : "Valid login ",
+  "fullName" : "Test suit.Valid login ",
+  "historyId" : "94269c81476d16de168e9a2d8202e31f",
+  "time" : {
+    "start" : 1646732679900,
+    "stop" : 1646732691756,
+    "duration" : 11856
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Valid login "
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88bdfe2829f72a8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731975300,
+        "stop" : 1646731987089,
+        "duration" : 11789
+      }
+    }, {
+      "uid" : "5ef31bd1af9d35ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731850318,
+        "stop" : 1646731862498,
+        "duration" : 12180
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8c39fb621a53bb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "dc4f34554805a1d7",
+  "name" : "Verification to go for the fixed rate contract page",
+  "fullName" : "Test suit.Verification to go for the fixed rate contract page",
+  "historyId" : "c46535254e76a989e3e398375885aaf7",
+  "time" : {
+    "start" : 1646732691778,
+    "stop" : 1646732693000,
+    "duration" : 1222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verification to go for the fixed rate contract page"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ce926afb25266dfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731987100,
+        "stop" : 1646731988575,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "98e1026f2ceb56d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731862512,
+        "stop" : 1646731863968,
+        "duration" : 1456
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc4f34554805a1d7.json",
+  "parameterValues" : [ ]
+}

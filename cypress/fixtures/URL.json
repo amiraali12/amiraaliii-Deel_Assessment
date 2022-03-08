@@ -1,0 +1,9 @@
+{ 
+    "LoginPageURL": "https://app.deel.training/login",
+    "HomePageURL": "app.deel.training",
+    "CreateContractURL":"https://app.deel.training/create",
+    "FixedRateContractURL": "https://app.deel.training/create/fixed",
+    "ContractCreated":"https://app.deel.training/contract/LnjPBEGv"
+  
+
+}

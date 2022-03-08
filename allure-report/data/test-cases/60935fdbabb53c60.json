@@ -1,0 +1,66 @@
+{
+  "uid" : "60935fdbabb53c60",
+  "name" : "Fill in the general info",
+  "fullName" : "Test suit.Fill in the general info",
+  "historyId" : "9b5813e5a208776fab041a19537b3f29",
+  "time" : {
+    "start" : 1646732693004,
+    "stop" : 1646732700349,
+    "duration" : 7345
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill in the general info"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "501d64831db66857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731988582,
+        "stop" : 1646731995772,
+        "duration" : 7190
+      }
+    }, {
+      "uid" : "aa526deebd486703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731863972,
+        "stop" : 1646731870994,
+        "duration" : 7022
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60935fdbabb53c60.json",
+  "parameterValues" : [ ]
+}

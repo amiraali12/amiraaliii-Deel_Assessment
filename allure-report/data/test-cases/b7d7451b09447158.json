@@ -1,0 +1,842 @@
+{
+  "uid" : "b7d7451b09447158",
+  "name" : "Valid login ",
+  "fullName" : "Valid login ",
+  "historyId" : "1d31cfd292fb243c37d47bb068e82709",
+  "time" : {
+    "start" : 1646732681802,
+    "stop" : 1646732691728,
+    "duration" : 9926
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "fixture (\"LoginPage\")",
+      "time" : {
+        "start" : 1646732681793,
+        "stop" : 1646732681799,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit https://app.deel.training/login",
+      "time" : {
+        "start" : 1646732681805,
+        "stop" : 1646732683980,
+        "duration" : 2175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://api.deel.training/lookups?documents[]=bankAccounts&documents[]=countries&documents[]=currencies&documents[]=cryptoCurrencies&documents[]=entityTypes&documents[]=payAdjustments&documents[]=paymentMethods&documents[]=withdrawMethods&documents[]=perks&documents[]=multipleCurrencyCountries&documents[]=integrations&documents[]=features&documents[]=employeeInfo&documents[]=whatsNew&documents[]=UsZipCodeRanges&documents[]=quoteInfo",
+      "time" : {
+        "start" : 1646732683980,
+        "stop" : 1646732683980,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #mui-1",
+      "time" : {
+        "start" : 1646732683980,
+        "stop" : 1646732685586,
+        "duration" : 1606
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://o265775.ingest.sentry.io/api/1469620/envelope/?sentry_key=eec2e48072684c68a339c8443b6fd123&sentry_version=7",
+      "time" : {
+        "start" : 1646732685585,
+        "stop" : 1646732685585,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://o265775.ingest.sentry.io/api/1469620/envelope/?sentry_key=eec2e48072684c68a339c8443b6fd123&sentry_version=7",
+      "time" : {
+        "start" : 1646732685585,
+        "stop" : 1646732685585,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/commons/countries/biMonthly",
+      "time" : {
+        "start" : 1646732685586,
+        "stop" : 1646732685586,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "clear",
+      "time" : {
+        "start" : 1646732685586,
+        "stop" : 1646732685774,
+        "duration" : 188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type amiraali141@deel.com",
+      "time" : {
+        "start" : 1646732685774,
+        "stop" : 1646732686148,
+        "duration" : 374
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get #mui-2",
+      "time" : {
+        "start" : 1646732686148,
+        "stop" : 1646732686154,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "clear",
+      "time" : {
+        "start" : 1646732686154,
+        "stop" : 1646732686337,
+        "duration" : 183
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "type Amira12345@",
+      "time" : {
+        "start" : 1646732686337,
+        "stop" : 1646732686583,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get .css-o48jmu > .button",
+      "time" : {
+        "start" : 1646732686583,
+        "stop" : 1646732686592,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "click",
+      "time" : {
+        "start" : 1646732686592,
+        "stop" : 1646732686695,
+        "duration" : 103
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://api.deel.training/login",
+      "time" : {
+        "start" : 1646732686694,
+        "stop" : 1646732686695,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "wait 5000",
+      "time" : {
+        "start" : 1646732686695,
+        "stop" : 1646732691718,
+        "duration" : 5023
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/commons/exchange_rates",
+      "time" : {
+        "start" : 1646732691715,
+        "stop" : 1646732691715,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/profiles/me",
+      "time" : {
+        "start" : 1646732691715,
+        "stop" : 1646732691715,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "new url https://app.deel.training/",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "page load --page loaded--",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/compliance",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/organization_profiles?organizationId=158953",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://api.deel.training/legal_entities?organizationId=158953",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/lookups?documents[]=bankAccounts&documents[]=countries&documents[]=currencies&documents[]=cryptoCurrencies&documents[]=entityTypes&documents[]=payAdjustments&documents[]=paymentMethods&documents[]=withdrawMethods&documents[]=perks&documents[]=multipleCurrencyCountries&documents[]=integrations&documents[]=features&documents[]=employeeInfo&documents[]=whatsNew&documents[]=UsZipCodeRanges&documents[]=quoteInfo",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://o265775.ingest.sentry.io/api/1469620/envelope/?sentry_key=eec2e48072684c68a339c8443b6fd123&sentry_version=7",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/commons/countries/biMonthly",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/commons/exchange_rates",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/profiles/me",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/organization_profiles?organizationId=158953",
+      "time" : {
+        "start" : 1646732691716,
+        "stop" : 1646732691716,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/legal_entities?organizationId=158953",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/team",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://grsm.io/pr/gpk/pk_PWkZSrp4L6H1BRQpkArdNl67khUIeR59",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/commons/exchange_rates",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/profiles/me",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/contracts/custom_fields_parameters",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/payments/account",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/organization_profiles?organizationId=158953",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/payments/account",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/compliance",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST 200 https://app.clearbit.com/v1/p",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/referrals/data",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 404 https://api.deel.training/eor/tax-documents",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/transactions/graph?limit=1m",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/dashboard/widgets/employees_onboarding_tracker?limit=1",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/dashboard/widgets/pending-time-offs",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/dashboard",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/dashboard/widgets/pending_eor_amendments",
+      "time" : {
+        "start" : 1646732691717,
+        "stop" : 1646732691717,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET 200 https://api.deel.training/notifications/me",
+      "time" : {
+        "start" : 1646732691718,
+        "stop" : 1646732691718,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET https://api.deel.training/payments/account",
+      "time" : {
+        "start" : 1646732691718,
+        "stop" : 1646732691718,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-131130443-2&cid=1143380054.1646732692&jid=1624211312&gjid=100698500&_gid=1973704274.1646732692&_u=YGBAgEABQAAAAE~&z=630427782",
+      "time" : {
+        "start" : 1646732691718,
+        "stop" : 1646732691718,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "url",
+      "time" : {
+        "start" : 1646732691718,
+        "stop" : 1646732691727,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "assert expected **https://app.deel.training/** to include **app.deel.training**",
+      "time" : {
+        "start" : 1646732691727,
+        "stop" : 1646732691727,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "https://app.deel.training/"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 51,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7d7451b09447158.json",
+  "parameterValues" : [ ]
+}

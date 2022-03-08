@@ -1,0 +1,66 @@
+{
+  "uid" : "c2a4fe0f67b2e1f9",
+  "name" : "Fill in the Payment info",
+  "fullName" : "Test suit.Fill in the Payment info",
+  "historyId" : "6fed6a007440cb0bebb3b158ec69d38a",
+  "time" : {
+    "start" : 1646732700355,
+    "stop" : 1646732701992,
+    "duration" : 1637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fill in the Payment info"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ddb2c33b1a5563f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731995786,
+        "stop" : 1646731997320,
+        "duration" : 1534
+      }
+    }, {
+      "uid" : "ceba65b3877fc31d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731871003,
+        "stop" : 1646731872523,
+        "duration" : 1520
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2a4fe0f67b2e1f9.json",
+  "parameterValues" : [ ]
+}

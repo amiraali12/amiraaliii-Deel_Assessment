@@ -1,0 +1,66 @@
+{
+  "uid" : "12edbaf429a646dc",
+  "name" : "Verify that the contract created successfully ",
+  "fullName" : "Test suit.Verify that the contract created successfully ",
+  "historyId" : "654cf4c7b93f648515dbd0a807632a1f",
+  "time" : {
+    "start" : 1646732702254,
+    "stop" : 1646732702387,
+    "duration" : 133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the contract created successfully "
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cac3b421ab5f4f13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731997582,
+        "stop" : 1646731997703,
+        "duration" : 121
+      }
+    }, {
+      "uid" : "ff5f6b07d228b229",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646731872777,
+        "stop" : 1646731872894,
+        "duration" : 117
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12edbaf429a646dc.json",
+  "parameterValues" : [ ]
+}

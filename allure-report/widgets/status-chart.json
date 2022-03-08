@@ -1,0 +1,141 @@
+[ {
+  "uid" : "6c5da1b7cb4283cc",
+  "name" : "Proceed next for the define dates tap",
+  "time" : {
+    "start" : 1646732701992,
+    "stop" : 1646732702119,
+    "duration" : 127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12edbaf429a646dc",
+  "name" : "Verify that the contract created successfully ",
+  "time" : {
+    "start" : 1646732702254,
+    "stop" : 1646732702387,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60935fdbabb53c60",
+  "name" : "Fill in the general info",
+  "time" : {
+    "start" : 1646732693004,
+    "stop" : 1646732700349,
+    "duration" : 7345
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7d7451b09447158",
+  "name" : "Valid login ",
+  "time" : {
+    "start" : 1646732681802,
+    "stop" : 1646732691728,
+    "duration" : 9926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cf056521c082802",
+  "name" : "Verify that the contract created successfully ",
+  "time" : {
+    "start" : 1646732702251,
+    "stop" : 1646732702375,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc4f34554805a1d7",
+  "name" : "Verification to go for the fixed rate contract page",
+  "time" : {
+    "start" : 1646732691778,
+    "stop" : 1646732693000,
+    "duration" : 1222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da122ac8f6f0956a",
+  "name" : "Fill in the general info",
+  "time" : {
+    "start" : 1646732693000,
+    "stop" : 1646732700343,
+    "duration" : 7343
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8c39fb621a53bb",
+  "name" : "Valid login ",
+  "time" : {
+    "start" : 1646732679900,
+    "stop" : 1646732691756,
+    "duration" : 11856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d60c5f6f207eb449",
+  "name" : "Proceed next for the define dates tap",
+  "time" : {
+    "start" : 1646732701998,
+    "stop" : 1646732702121,
+    "duration" : 123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e91ee0c57087bbea",
+  "name" : "Fill in the Payment info",
+  "time" : {
+    "start" : 1646732700351,
+    "stop" : 1646732701987,
+    "duration" : 1636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2a4fe0f67b2e1f9",
+  "name" : "Fill in the Payment info",
+  "time" : {
+    "start" : 1646732700355,
+    "stop" : 1646732701992,
+    "duration" : 1637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c1ceb37afbcc2f9",
+  "name" : "Verification to go for the fixed rate contract page",
+  "time" : {
+    "start" : 1646732691762,
+    "stop" : 1646732692995,
+    "duration" : 1233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d0738b29d0dd1e1",
+  "name" : "Proceed next for the Benifits and extras",
+  "time" : {
+    "start" : 1646732702123,
+    "stop" : 1646732702251,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8632c31598003e8d",
+  "name" : "Proceed next for the Benifits and extras",
+  "time" : {
+    "start" : 1646732702121,
+    "stop" : 1646732702249,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,48 @@
+{
+  "uid" : "b2210b1a3301fbf7",
+  "name" : "Proceed next for the define dates tap",
+  "fullName" : "Test suit.Proceed next for the define dates tap",
+  "historyId" : "94c6da9e98958c547a25d23878638319",
+  "time" : {
+    "start" : 1646731997326,
+    "stop" : 1646731997447,
+    "duration" : 121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Test suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "Proceed next for the define dates tap"
+  }, {
+    "name" : "package",
+    "value" : "Test suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2210b1a3301fbf7.json",
+  "parameterValues" : [ ]
+}

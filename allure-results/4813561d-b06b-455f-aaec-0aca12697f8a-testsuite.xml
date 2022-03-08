@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1646731975285' stop='1646731997706'>
+    <name>Test suit</name>
+    <title>Test suit</title>
+    <test-cases>
+        <test-case start='1646731975300' status='passed' stop='1646731987089'>
+            <name>Valid login </name>
+            <title>Valid login </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731987100' status='passed' stop='1646731988575'>
+            <name>Verification to go for the fixed rate contract page</name>
+            <title>Verification to go for the fixed rate contract page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731988582' status='passed' stop='1646731995772'>
+            <name>Fill in the general info</name>
+            <title>Fill in the general info</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731995786' status='passed' stop='1646731997320'>
+            <name>Fill in the Payment info</name>
+            <title>Fill in the Payment info</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731997326' status='passed' stop='1646731997447'>
+            <name>Proceed next for the define dates tap</name>
+            <title>Proceed next for the define dates tap</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731997452' status='passed' stop='1646731997578'>
+            <name>Proceed next for the Benifits and extras</name>
+            <title>Proceed next for the Benifits and extras</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1646731997582' status='passed' stop='1646731997703'>
+            <name>Verify that the contract created successfully </name>
+            <title>Verify that the contract created successfully </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

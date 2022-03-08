@@ -1,0 +1,52 @@
+
+{
+    "LoginPage":{
+    "usernameField": "#mui-1",
+    "PasswordField": "#mui-2",
+    "LoginBtn" : ".css-o48jmu > .button"
+    },
+
+    "HomePage":{
+        "SideBarBTN": "#root > div > div:nth-child(2) > div.mobile-header > div > button",
+        "CreateContractBtn": ":nth-child(2) > .anchor > .sidebar-link > .flex > .sidebar-option-p",
+        "FixedRateContract": "#root > div > div:nth-child(2) > div > div > div.row > div:nth-child(1) > a > div"
+
+    },
+
+    "FixedRatePage": {
+        "GeneralInfoPage": {
+        "ContractName":":nth-child(1) > :nth-child(1) > .deel-ui__input-component__wrapper > .deel-ui__input-component > .deel-ui__input-component__input",
+        "ResidenceTax": "#react-select-3-input",
+        "State":":nth-child(2) > .deel-ui__select__input-container > .deel-ui__select__control",
+        "dropDown": ".deel-ui__select__option-container",
+        "JobTitle":"input[name='jobTitle']",
+        "SeniorLevel":"#react-select-4-input",
+        "ScopeOfWork": "textarea[name='scope']",
+        "StartDate":".deel-ui__calendar-input-container__input_content_value",
+        "NextBtn":".justify-content-end > .button"
+        }
+        
+    },
+    "PaymentInfo": {
+        "Currency": "input#react-select-6-input",
+        "Rate":".deel-ui__input-component__input",
+        "Frequency":"input#react-select-7-input",
+        "Nextbtn": ".contract-creation-footer > .mt-9 > div"
+    },
+    "DefineDates":{
+        "NextBtn": ".submit-define-dates > div"
+    },
+    "BenefitsExtras":{
+        "NextBtn": ".contract-creation-footer > .mt-7 > div"
+    },
+    "CreateContract":".contract-creation-footer > .mt-7 > div"
+
+
+ 
+}
+
+
+
+
+
+
